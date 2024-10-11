@@ -30,8 +30,18 @@ Online Bookstore System
   - SupportTicketTest test class (Testing: creating, retrieving and adding messages to support tickets in database)
 
 - **Sarneet** 
-  - Staff Login/Registration 
-  - Catalogue
+  - Staff Login/Registration + management feature
+  - Created staff login and registration pages
+  - Created staffUser database
+  - Created staff dashboard and accompanying JSP pages
+  - Book Catalogue feature
+  - Worked on staff management feature - Update, search, delete and add staff users
+  - Worked on book catalogue feature (add book, delete book, display book(s) in catalogue and Manage Catalogue menu (staff))
+  - General data validation
+  - Created and worked on staff navigation pages
+  - Created filter for book catalogue product search page
+  - StaffUser test class (Testing creating, retrieving, deleting and updating staff user data)
+
 
 - **Nicolas** 
   - Orders Management 
