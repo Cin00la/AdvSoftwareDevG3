@@ -50,6 +50,14 @@ Online Bookstore System
 - **Yuri** 
   - Checkout
   - Product Pages
+  - Order Cart and Payment Features
+  - Developed order cart functionality to manage selected books
+  - Implemented 'Add to Cart' and 'Edit Cart' features for customer order management
+  - Created payment functionality for storing customer payment information
+  - Set up the payments database table for storing payment details securely
+  - Integrated payment and order functionalities with the front-end JSP pages
+  - Implemented payment processing and checkout workflows
+  - Developed data validation logic for payment and order details
 
 ## Setup Instructions
 
