@@ -43,9 +43,14 @@ Online Bookstore System
   - StaffUser test class (Testing creating, retrieving, deleting and updating staff user data)
 
 
-- **Nicolas** 
-  - Orders Management 
-  - Orders Tracking
+- **Nicolas**
+  - Cleaned up styles.css
+  - Added Shipment.java
+  - Added ShipmentTest.java (CRUD testing)
+  - Created shipment_table.jsp
+  - Created shipment_tracking.jsp
+  - Handled Orders Management feature
+  - Handled Orders Tracking feature
 
 - **Yuri** 
   - Checkout
